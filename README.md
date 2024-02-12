@@ -52,6 +52,6 @@ Enables Flipper, a platform for mobile app development debugging. Flipper is com
 
 Defines a post-installation block where additional configurations can be applied. In this case, it calls flipper_post_install(installer) to ensure proper Flipper integration.
 
-Screen gif 
+# Screen gif 
 
 ![ezgif com-resize (7)](https://github.com/zafer414108/tiktok-clone-react-native/assets/147662873/3161eef0-4e1b-43e6-8949-064128016a4a)
